@@ -1,0 +1,384 @@
+{
+  "category": "Self Help",
+  "description": "A category for Self Help prompts.",
+  "prompts": [
+  {
+    "id": 1,
+    "title": "You are my motivational coach. I feel like I've given up on life and lost all direction. Help me reignite my inner spark with emotional support, real-world strategies, and stories of people who turned their lives around.",
+    "category": "Self-Help",
+    "description": "Help the user rediscover hope and purpose with motivational insight, practical steps, and real-life examples of resilience.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["motivation", "hope", "recovery", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "title": "I’m struggling with procrastination. Act as a productivity expert and help me build a customized plan with proven techniques like the Pomodoro method, time blocking, and habit stacking to finally start taking consistent action.",
+    "category": "Self-Help",
+    "description": "Assist the user in defeating procrastination using structured productivity techniques tailored to their routine.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["productivity", "procrastination", "habits", "focus", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "title": "Act as a life coach and guide me to develop a powerful morning routine that energizes me and sets the tone for a productive day. Suggest realistic habits, step-by-step structure, and mindset shifts for mornings.",
+    "category": "Self-Help",
+    "description": "Help the user craft an energizing morning routine with both practical steps and motivational guidance.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["routine", "habits", "morning", "energy", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "title": "You are a therapist helping me reconnect with and heal my inner child. Ask me reflective questions, suggest gentle healing exercises, and guide me through visualizations for emotional release and self-compassion.",
+    "category": "Self-Help",
+    "description": "Support the user through inner child healing practices including prompts, exercises, and compassion tools.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["inner child", "healing", "emotions", "therapy", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "title": "Be my journaling coach. Guide me through deep, transformative journaling prompts to explore my identity, emotions, goals, and hidden beliefs so I can gain clarity and direction in life.",
+    "category": "Self-Help",
+    "description": "Use journaling to help the user uncover emotional and personal insights through well-crafted prompts.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "journaling",
+      "clarity",
+      "self-discovery",
+      "reflection",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "title": "I want to build unshakable self-confidence. Act as my confidence coach and walk me through a complete mindset shift with practical actions, affirmations, real-life applications, and inner dialogue rewiring.",
+    "category": "Self-Help",
+    "description": "Guide the user through building true confidence from within using mindset, behavior, and language techniques.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "confidence",
+      "self-esteem",
+      "affirmation",
+      "mindset",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "title": "I often compare myself to others and feel inadequate. Be my mental clarity coach and help me stop this cycle by teaching me how to focus on my own journey, reframe negative thoughts, and find inner peace.",
+    "category": "Self-Help",
+    "description": "Help the user break free from comparison by teaching self-worth, reframing, and acceptance practices.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["comparison", "self-worth", "reframing", "peace", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "title": "Act as a life clarity coach. I feel stuck and overwhelmed. Help me organize my thoughts, identify my true priorities, and build a simple action plan using tools like the Eisenhower Matrix or vision planning.",
+    "category": "Self-Help",
+    "description": "Guide the user toward mental clarity and goal prioritization through structured frameworks and insight.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["clarity", "overwhelm", "planning", "priorities", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "title": "Create a 30-day self-transformation challenge for me. Each day should include a task or reflection to improve my habits, mindset, confidence, and self-awareness in small but meaningful ways.",
+    "category": "Self-Help",
+    "description": "Build a complete 30-day guided challenge for daily self-improvement across various life aspects.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "transformation",
+      "challenge",
+      "self-improvement",
+      "growth",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "title": "I want to change my life but don’t know where to start. Act as a transformational life coach and walk me through the first steps to rebuild my life — mentally, emotionally, and practically — from scratch.",
+    "category": "Self-Help",
+    "description": "Help the user start from zero and create a foundation for long-term life transformation in all aspects.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["life coach", "reset", "direction", "rebuilding", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "title": "Act as my emotional resilience coach. I tend to break down easily during setbacks. Teach me how to become mentally stronger, handle rejection, and bounce back with grace and power.",
+    "category": "Self-Help",
+    "description": "Guide the user to build emotional strength and adaptability using techniques from CBT, growth mindset, and resilience training.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "resilience",
+      "mental strength",
+      "rejection",
+      "growth",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "title": "Help me reprogram my negative inner voice. Act like a cognitive behavioral therapist and give me exercises to recognize, challenge, and transform toxic self-talk into empowering inner dialogue.",
+    "category": "Self-Help",
+    "description": "Support the user in shifting negative thoughts into positive ones using CBT-inspired dialogue and reframing tools.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["self-talk", "CBT", "positivity", "inner critic", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 13,
+    "title": "I feel like I’ve lost my sense of identity. Help me rediscover who I am by asking deep, introspective questions about my values, passions, personality, and past experiences.",
+    "category": "Self-Help",
+    "description": "Guide the user through a self-discovery journey using reflective prompts to rebuild identity and clarity.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "identity",
+      "values",
+      "self-discovery",
+      "introspection",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "title": "I need help with overthinking. Act as a mindfulness mentor and teach me simple yet powerful ways to let go of obsessive thoughts and stay grounded in the present moment.",
+    "category": "Self-Help",
+    "description": "Assist the user in reducing overthinking through mindfulness, grounding techniques, and present-moment awareness.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["overthinking", "mindfulness", "presence", "anxiety", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "title": "Act as my boundaries coach. I struggle to say no and often feel drained. Help me understand how to set healthy emotional boundaries without guilt and teach me assertive communication skills.",
+    "category": "Self-Help",
+    "description": "Help the user learn emotional boundaries and assertiveness to protect their energy and well-being.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "boundaries",
+      "assertiveness",
+      "self-respect",
+      "relationships",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "title": "Design a personalized evening routine for me that helps me decompress, reflect, and sleep better — including digital detox tips, self-care activities, and a calming mindset wind-down process.",
+    "category": "Self-Help",
+    "description": "Support the user in building a healthy, restful evening habit that promotes emotional and physical recovery.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "evening routine",
+      "sleep",
+      "self-care",
+      "digital detox",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "title": "Help me overcome my fear of failure. Act as a mindset coach and walk me through a mental shift that helps me embrace mistakes, learn from setbacks, and build a healthy relationship with failure.",
+    "category": "Self-Help",
+    "description": "Guide the user to reframe failure as growth using a positive mindset and evidence-based strategies.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["fear", "failure", "mindset", "courage", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 18,
+    "title": "Act as my goal-setting strategist. Help me set 3 meaningful short-term and long-term goals, and then break each one into achievable weekly milestones with motivation tips along the way.",
+    "category": "Self-Help",
+    "description": "Help the user design goals that are SMART and achievable with structured milestones and encouragement.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["goals", "planning", "success", "strategy", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 19,
+    "title": "Teach me how to develop emotional intelligence. Help me become more aware of my emotions, manage reactions, and improve my relationships using empathy and self-regulation techniques.",
+    "category": "Self-Help",
+    "description": "Guide the user through understanding and applying emotional intelligence skills in everyday life.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["EQ", "emotions", "relationships", "empathy", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 20,
+    "title": "I want to stop living on autopilot. Help me become more intentional and mindful in my daily routine, relationships, and choices through awareness practices, reflection questions, and habit rewiring.",
+    "category": "Self-Help",
+    "description": "Help the user cultivate intentional living and mindfulness across all areas of life.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "intentionality",
+      "mindfulness",
+      "awareness",
+      "daily habits",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 21,
+    "title": "Guide me in building a rock-solid morning routine that energizes my body, sharpens my mind, and sets a positive tone for the entire day. Include mindset rituals, movement, and time-blocking tips.",
+    "category": "Self-Help",
+    "description": "Help the user create a powerful morning routine that combines physical, mental, and emotional readiness.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "morning routine",
+      "habits",
+      "productivity",
+      "rituals",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 22,
+    "title": "I need help building unshakeable confidence from within. Act as my confidence mentor and give me daily mindset shifts, challenges, and exercises to become more self-assured and fearless.",
+    "category": "Self-Help",
+    "description": "Assist the user in developing authentic, lasting confidence using self-esteem tools and mental conditioning.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "confidence",
+      "self-esteem",
+      "fearlessness",
+      "growth",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 23,
+    "title": "Teach me how to stop procrastinating and finally take action. Act as my productivity coach and help me break big goals into tiny steps, beat resistance, and build momentum every day.",
+    "category": "Self-Help",
+    "description": "Help the user overcome procrastination using behavioral psychology, small wins, and daily momentum.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["procrastination", "productivity", "goals", "action", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 24,
+    "title": "I want to heal from burnout and regain my joy. Help me slow down, prioritize my well-being, and create a sustainable lifestyle that honors rest, boundaries, and passion.",
+    "category": "Self-Help",
+    "description": "Support the user in recovering from burnout and rebuilding emotional and physical balance.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["burnout", "healing", "rest", "energy", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 25,
+    "title": "Act as a decluttering coach and help me organize my digital and physical life. Guide me step-by-step to clear my mind, reduce chaos, and create a minimalist lifestyle I feel peaceful in.",
+    "category": "Self-Help",
+    "description": "Assist the user in simplifying their environment and mindset for clarity and calm.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "minimalism",
+      "declutter",
+      "organization",
+      "simplicity",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 26,
+    "title": "Help me become more disciplined and consistent. I keep starting things but never stick with them. Train me to build long-term discipline with tiny habits and internal motivation techniques.",
+    "category": "Self-Help",
+    "description": "Coach the user in habit formation and internal discipline to stick with goals and routines.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["discipline", "habits", "consistency", "motivation", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 27,
+    "title": "Act as a life audit facilitator. Help me assess where I currently stand in the key areas of my life—health, relationships, mindset, career, finances—and help me identify where to grow next.",
+    "category": "Self-Help",
+    "description": "Guide the user through a self-audit to evaluate their life and clarify next steps in each area.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["life audit", "growth", "assessment", "reflection", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 28,
+    "title": "Teach me how to be kinder to myself. I’m very hard on myself. Help me develop real self-compassion and stop the self-sabotage cycle through forgiveness, perspective, and daily self-acceptance.",
+    "category": "Self-Help",
+    "description": "Support the user in cultivating self-love, compassion, and emotional healing from self-criticism.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "self-compassion",
+      "kindness",
+      "healing",
+      "forgiveness",
+      "self-help"
+    ],
+    "is_active": true
+  },
+  {
+    "id": 29,
+    "title": "Help me shift from comparison to contentment. I often feel like I’m falling behind in life when I see others succeeding. Train me to focus inward and cultivate genuine fulfillment and gratitude.",
+    "category": "Self-Help",
+    "description": "Help the user overcome the trap of comparison through perspective, gratitude, and confidence-building.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["comparison", "gratitude", "contentment", "mindset", "self-help"],
+    "is_active": true
+  },
+  {
+    "id": 30,
+    "title": "I want to become the best version of myself. Help me create a 30-day personal transformation plan covering mind, body, and soul — with daily actions, reflection prompts, and mindset resets.",
+    "category": "Self-Help",
+    "description": "Guide the user through a complete 30-day transformation journey with structure and inspiration.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": [
+      "transformation",
+      "challenge",
+      "daily growth",
+      "holistic",
+      "self-help"
+    ],
+    "is_active": true
+  }
+]
+}

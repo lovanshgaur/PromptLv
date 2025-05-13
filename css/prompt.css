@@ -1,0 +1,205 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    line-height: 1.6;
+    padding: 0;
+    margin: 0;
+}
+
+/* Home Section */
+#home {
+    text-align: center;
+    padding: 80px 20px;
+    background-color: #007bff;
+    color: white;
+    position: relative;
+}
+
+#home header h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+#home header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+#scroll-indicator {
+    margin-top: 30px;
+}
+
+#scroll-indicator button {
+    padding: 15px 30px;
+    background-color: white;
+    color: #007bff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#scroll-indicator button:hover {
+    background-color: #0056b3;
+    color: white;
+}
+
+#scroll-indicator button:focus {
+    outline: none;
+}
+
+/* Back Button */
+#back-button {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0.5rem;
+    position: fixed;
+    top: 2.5%;
+    left: 2.55;
+}
+
+#back-button a {
+    color: azure;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+#back-button a:hover {
+    color: #ff5900;
+}
+
+/* Search Section */
+#search-section {
+    text-align: center;
+    padding: 20px;
+}
+
+#searchInput {
+    padding: 10px;
+    width: 50%;
+    max-width: 500px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
+
+#searchInput:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+/* Prompt Grid */
+#prompt-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.prompt-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    transition: transform 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.5rem;
+}
+
+.prompt-card:hover {
+    transform: translateY(-5px);
+}
+
+.prompt-text {
+    font-size: 1.25rem;
+    text-align: justify;
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.prompt-tags {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+
+.prompt-tags span {
+    background-color: #ff5900;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.copy-btn {
+  width: 30px;
+  height: 30px;
+  background-color: #1e88e559;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+}
+
+.copy-btn::after {
+  content: '📋'; /* Clipboard icon */
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.copy-btn:hover {
+  background-color: #1565c0;
+}
+
+
+.copy-btn:active {
+    background-color: #003d80;
+}
+
+.copy-btn:focus {
+    outline: none;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #282c34;
+    color: white;
+    font-size: 14px;
+    margin-top: 40px;
+}
+
+footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}

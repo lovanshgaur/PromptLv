@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "Help me write a short story where time has stopped for everyone in the world—except one person. Explore their loneliness, discoveries, and what they choose to do with their time.",
+    "category": "Creative Writing",
+    "description": "A writing prompt focused on exploring isolation, curiosity, and power in a paused world.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["short story", "sci-fi", "loneliness", "time", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "title": "Help me write a scene where a detective interviews a ghost who is the only witness to their own murder. Keep the tone eerie but engaging with elements of mystery and regret.",
+    "category": "Creative Writing",
+    "description": "A paranormal crime scene writing prompt that mixes mystery and supernatural elements.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["mystery", "ghost", "paranormal", "crime", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "title": "Act as a myth-maker and help me invent a completely new legend or myth from an imaginary ancient civilization. Include symbols, creatures, and a moral lesson.",
+    "category": "Creative Writing",
+    "description": "An imaginative prompt to build a myth or legend with symbolic meaning and fictional history.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["mythology", "fantasy", "legend", "world-building", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "title": "Help me write an emotional monologue of a villain who believes they are the hero. Let the speech reveal their motivations, trauma, and warped sense of justice.",
+    "category": "Creative Writing",
+    "description": "A character-driven prompt exploring the inner psyche of a complex villain through monologue.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["monologue", "villain", "emotional", "drama", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "title": "Help me write a scene set on a train that’s traveling between dimensions. Each car leads to a new surreal world. Describe the transitions and how the protagonist reacts.",
+    "category": "Creative Writing",
+    "description": "A surreal prompt focusing on exploration, wonder, and shifting realities.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["surreal", "train", "dimensions", "fantasy", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "title": "Write a diary entry from the perspective of a child who was secretly raised by dragons. Blend innocence with fantasy as they describe their life in the mountains.",
+    "category": "Creative Writing",
+    "description": "A whimsical prompt to write from a unique childlike point of view in a fantasy setting.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["fantasy", "dragons", "child", "diary", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "title": "Help me create an opening chapter of a dystopian novel where emotions are illegal, and people are monitored for smiling or crying. Introduce a character who starts feeling again.",
+    "category": "Creative Writing",
+    "description": "A dystopian story starter with emotional stakes and societal control.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["dystopia", "emotions", "society", "novel", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "title": "Write a dialogue-only scene between two strangers stuck in an elevator—one is from the future, the other from the past. Let the story unfold through their contrasting perspectives.",
+    "category": "Creative Writing",
+    "description": "A time-twisting dialogue prompt to explore character, philosophy, and subtle storytelling.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["dialogue", "time travel", "strangers", "philosophy", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "title": "Help me write a poem based on the concept of 'forgotten places'. Use rich imagery and emotion to bring abandoned locations to life with nostalgia and beauty.",
+    "category": "Creative Writing",
+    "description": "A poetic prompt invoking emotion and visual detail about lost or forgotten places.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["poetry", "imagery", "nostalgia", "places", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "title": "Act as a fantasy world builder and help me design an original kingdom ruled by nature spirits. Describe its culture, seasons, conflicts, and spiritual beliefs.",
+    "category": "Creative Writing",
+    "description": "A fantasy world-building prompt to invent a kingdom connected to nature and magic.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["world-building", "fantasy", "kingdom", "nature", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "title": "Help me write a letter from a future version of myself to my present self, offering advice, regrets, and hope. Make it deeply emotional and reflective.",
+    "category": "Creative Writing",
+    "description": "A time-bending personal writing prompt that encourages introspection and emotional depth.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["letter", "time", "future self", "reflection", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "title": "Write a magical realism story where everyone is born with a visible thread that leads to their soulmate—except one person who has multiple threads going in different directions.",
+    "category": "Creative Writing",
+    "description": "A fantasy-romance prompt centered on fate, identity, and the complexity of love.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["magical realism", "soulmates", "threads", "romance", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 13,
+    "title": "Act as a sci-fi writer and help me write a first-person account of someone waking up on a distant planet with no memory—only a cryptic tattoo and a malfunctioning robot companion.",
+    "category": "Creative Writing",
+    "description": "A science fiction mystery setup ideal for character discovery and world-building.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["sci-fi", "memory loss", "robot", "alien planet", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "title": "Write a dark fairy tale about a cursed forest where people go to forget their pain—but the memories they lose come alive and start hunting them.",
+    "category": "Creative Writing",
+    "description": "A haunting fantasy-horror blend with metaphorical depth and eerie atmosphere.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["fairy tale", "dark fantasy", "memory", "curse", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "title": "Help me write a satirical news article set in a dystopian future where feelings are taxed. Explore how society adapts when joy becomes expensive and sorrow is subsidized.",
+    "category": "Creative Writing",
+    "description": "A social satire prompt mixing dystopia and absurdism for a thought-provoking twist.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["satire", "dystopia", "society", "emotions", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "title": "Write a screenplay scene where two characters speak entirely in metaphors, unaware they are from opposing worlds—one from the sea, one from the desert.",
+    "category": "Creative Writing",
+    "description": "A poetic screenplay prompt exploring theme through dialogue, culture, and contrast.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["screenplay", "metaphor", "dialogue", "fantasy", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "title": "Create an origin story for a superhero whose only power is the ability to rewind conversations by 15 seconds. Show how they use it creatively to change lives.",
+    "category": "Creative Writing",
+    "description": "A unique superhero concept built on subtle power, character growth, and clever writing.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["superhero", "origin story", "time", "powers", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 18,
+    "title": "Write a story where dreams are bought and sold at underground markets. Follow a dealer who discovers a dream too powerful to be owned by anyone.",
+    "category": "Creative Writing",
+    "description": "A speculative fiction prompt about dreams, morality, and control.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["speculative fiction", "dreams", "market", "power", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 19,
+    "title": "Act as a historical fiction writer and help me craft a scene set during the fall of an ancient city—through the eyes of a baker who witnesses the collapse while protecting a secret recipe.",
+    "category": "Creative Writing",
+    "description": "A grounded historical fiction prompt with rich sensory details and subtle stakes.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["historical fiction", "ancient city", "baker", "collapse", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 20,
+    "title": "Help me write a comedic short story where a group of retired villains form a book club but accidentally stumble into stopping a real-world evil plot.",
+    "category": "Creative Writing",
+    "description": "A light-hearted, character-driven prompt that blends comedy, irony, and redemption.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["comedy", "villains", "book club", "redemption", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 21,
+    "title": "Write an epistolary story told entirely through journal entries of a lighthouse keeper who begins to suspect the sea is alive and communicating with them.",
+    "category": "Creative Writing",
+    "description": "A slow-burn mystery blending isolation, madness, and speculative fantasy through letters or journal entries.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["epistolary", "sea", "mystery", "lighthouse", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 22,
+    "title": "Help me write a character monologue from the point of view of Time itself, reflecting on how humans perceive it versus what it truly is.",
+    "category": "Creative Writing",
+    "description": "A poetic, philosophical writing prompt focusing on abstract personification and perspective.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["monologue", "time", "personification", "philosophy", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 23,
+    "title": "Write a murder mystery where the victim is a famous author, and the only clues left behind are changes in their final manuscript draft.",
+    "category": "Creative Writing",
+    "description": "A metafictional prompt that combines crime, clues, and literature in a unique narrative.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["mystery", "murder", "author", "manuscript", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 24,
+    "title": "Craft a story where people live underground after the sky has been 'turned off.' A child born under artificial stars begins asking questions no one dares to answer.",
+    "category": "Creative Writing",
+    "description": "A dystopian speculative prompt exploring truth, rebellion, and hope through a child’s eyes.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["dystopia", "underground", "sky", "child", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 25,
+    "title": "Write a dialogue-only scene between Death and a soul that refuses to move on, insisting there is one last poem left unwritten.",
+    "category": "Creative Writing",
+    "description": "A minimalist yet emotionally charged prompt relying only on dialogue to explore legacy and closure.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["dialogue", "death", "poetry", "soul", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 26,
+    "title": "Help me write a fantasy tale from the perspective of a cursed map that misleads anyone who holds it—until it finds someone it deems worthy.",
+    "category": "Creative Writing",
+    "description": "A personified object fantasy with strong voice and mythic themes of trust, betrayal, and destiny.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["fantasy", "map", "curse", "journey", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 27,
+    "title": "Write a speculative story where music is outlawed, and a secret underground orchestra must perform one final symphony that could awaken lost emotions in society.",
+    "category": "Creative Writing",
+    "description": "A dystopian rebellion narrative using art as a form of resistance and memory.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["dystopia", "music", "orchestra", "rebellion", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 28,
+    "title": "Create a children's bedtime story where the moon falls from the sky, and a brave cat volunteers to return it to the stars.",
+    "category": "Creative Writing",
+    "description": "A gentle and whimsical bedtime adventure filled with heart, wonder, and stardust.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["children", "bedtime", "moon", "cat", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 29,
+    "title": "Help me write a cyberpunk noir scene where a private investigator interviews an android about a missing human who was last seen 'feeling emotions illegally.'",
+    "category": "Creative Writing",
+    "description": "A gritty, high-tech detective prompt with existential undertones and emotional complexity.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["cyberpunk", "android", "noir", "investigation", "creative writing"],
+    "is_active": true
+  },
+  {
+    "id": 30,
+    "title": "Write a mythological tale invented from scratch—about how the stars came to be, featuring a lonely god, a forbidden love, and a broken sky.",
+    "category": "Creative Writing",
+    "description": "A rich world-building prompt to craft your own mythology, legends, and cosmic love story.",
+    "created_at": "2025-05-13",
+    "updated_at": "2025-05-13",
+    "tags": ["mythology", "stars", "love", "creation story", "creative writing"],
+    "is_active": true
+  }
+]

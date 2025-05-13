@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PromptLv - Curated AI Prompts</title>
+  <link rel="stylesheet" href="css/style.css" class="css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+  <!-- Hero Section / Header -->
+  <section id="home">
+    <header>
+      <h1>🧠 PromptLv</h1>
+      <p>Fuel your creativity with powerful, curated AI prompts.</p>
+    </header>
+
+    <div id="scroll-indicator">
+      <button onclick="scrollToSection('categories')">Explore Prompts ↓</button>
+    </div>
+  </section>
+
+  <!-- Popular Prompts Section -->
+  <section id="popular">
+    <h2>🔥 Popular Prompts</h2>
+    <div class="prompt-grid">
+      <div class="prompt-card">"Act as a motivational coach for someone who's given up on their dreams."</div>
+      <div class="prompt-card">"Explain the concept of Web3 to a 10-year-old."</div>
+      <div class="prompt-card">"Turn my blog idea into an engaging YouTube video script."</div>
+      <div class="prompt-card">"Write a poem from the perspective of the moon."</div>
+    </div>
+  </section>
+
+  <!-- Categories Navigation -->
+  <section id="categories">
+    <h2>🎯 Prompt Categories</h2>
+    <div class="category-buttons">
+      <button onclick="scrollToSection('writing')">Creative Writing</button>
+      <button onclick="scrollToSection('developer')">Developer</button>
+      <button onclick="scrollToSection('marketing')">Marketing</button>
+      <button onclick="scrollToSection('education')">Education</button>
+      <button onclick="scrollToSection('roleplay')">Roleplay</button>
+      <button onclick="scrollToSection('productivity')">Productivity Tools</button>
+    </div>
+  </section>
+
+  <!-- Category: Creative Writing -->
+  <section id="writing" class="prompt-section">
+    <h2>✍️ Creative Writing Prompts</h2>
+    <div class="prompt-grid">
+      <div class="prompt-card">"Describe a city floating in the clouds and the culture of its people."</div>
+      <div class="prompt-card">"Write the internal monologue of a villain moments before their redemption."</div>
+      <div class="prompt-card">"Create a fairy tale where the dragon is the hero."</div>
+    </div>
+  </section>
+
+  <!-- Category: Developer -->
+  <section id="developer" class="prompt-section">
+    <h2>💻 Developer Prompts</h2>
+    <div class="prompt-grid">
+      <div class="prompt-card">"Optimize this Python code for performance and readability."</div>
+      <div class="prompt-card">"Generate a responsive HTML/CSS layout for a pricing page."</div>
+      <div class="prompt-card">"Explain React's useEffect hook with examples."</div>
+    </div>
+  </section>
+
+  <!-- Category: Marketing -->
+  <section id="marketing" class="prompt-section">
+    <h2>📢 Marketing Prompts</h2>
+    <div class="prompt-grid">
+      <div class="prompt-card">"Write an ad for a new eco-friendly sneaker brand targeting Gen Z."</div>
+      <div class="prompt-card">"Create a launch campaign strategy for a mobile app."</div>
+      <div class="prompt-card">"Generate catchy taglines for a coffee subscription business."</div>
+    </div>
+  </section>
+
+  <!-- Category: Education -->
+  <section id="education" class="prompt-section">
+    <h2>📘 Education Prompts</h2>
+    <div class="prompt-grid">
+      <div class="prompt-card">"Explain the water cycle to a 6th grader."</div>
+      <div class="prompt-card">"Create a quiz on basic world geography."</div>
+      <div class="prompt-card">"Summarize the causes of World War I in 3 bullet points."</div>
+    </div>
+  </section>
+
+  <!-- Category: Roleplay -->
+  <section id="roleplay" class="prompt-section">
+    <h2>🎭 Roleplay Prompts</h2>
+    <div class="prompt-grid">
+      <div class="prompt-card">"Act as a sarcastic AI assistant in the year 3025."</div>
+      <div class="prompt-card">"Pretend to be Sherlock Holmes and solve a made-up case."</div>
+      <div class="prompt-card">"Act as a chef guiding a clueless cook through a recipe."</div>
+    </div>
+  </section>
+
+  <!-- Category: Productivity Tools -->
+  <section id="productivity" class="prompt-section">
+    <h2>✅ Productivity & Tools Prompts</h2>
+    <div class="prompt-grid">
+      <div class="prompt-card">"Organize my to-do list for the week based on priorities."</div>
+      <div class="prompt-card">"Summarize these meeting notes into action points."</div>
+      <div class="prompt-card">"Generate daily affirmations for improving focus."</div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div>
+      <p>Made with ❤️ by [Your Name] · © 2025 PromptLv</p>
+      <p>Follow updates or contribute on GitHub</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+
+</body>
+</html>

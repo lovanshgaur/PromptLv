@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prompts | PromptLv</title>
+    <link rel="stylesheet" href="../css/prompt.css" class="css">
+</head>
+
+<body>
+    <!-- Home Section -->
+    <section id="home">
+        <header>
+        <h1 id="category-title">Loading...</h1>
+        <p id="category-desc">Hold on while we fetch your prompts.</p>
+        </header>
+
+        <div id="scroll-indicator">
+            <button onclick="scrollToSection('prompt-list')">Explore Prompts ↓</button>
+        </div>
+    </section>
+
+    <!-- Hero Section -->
+    <div id="back-button">
+        <a href="../index.html">← Back to Home</a>
+    </div>
+
+
+    <!-- Search & Filter Section -->
+    <section id="search-section">
+        <input type="text" id="searchInput" placeholder="Search prompts..." />
+    </section>
+
+    <!-- Prompt Grid -->
+    <section id="prompt-list" class="prompt-grid">
+        <!-- Prompt cards will be dynamically inserted here -->
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        Made with ❤️ by PromptLv Team · © 2025
+    </footer>
+
+    <script src="../js/prompts.js"></script>
+</body>
+
+</html>
