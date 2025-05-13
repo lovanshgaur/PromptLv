@@ -87,3 +87,8 @@ document.querySelectorAll('.prompt-card').forEach(card => {
 
     card.appendChild(copyButton);
 });
+
+function navigateToCategory(category) {
+    // Redirect to prompts.html with category as query parameter
+    window.location.href = `html/prompt.html?id=${category}`;
+}
