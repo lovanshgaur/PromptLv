@@ -1,4 +1,7 @@
-[
+{
+  "category": "Self Help",
+  "description": "A category for Self Help prompts.",
+  "prompts": [
   {
     "id": 1,
     "title": "Help me write a short story where time has stopped for everyone in the world—except one person. Explore their loneliness, discoveries, and what they choose to do with their time.",
@@ -300,3 +303,4 @@
     "is_active": true
   }
 ]
+}
